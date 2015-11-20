@@ -1,6 +1,6 @@
 # Guard::Notifier::Stumpwm
 
-TODO: Write a gem description
+Send a notification of Guard to StumpWM.
 
 ## Installation
 
@@ -15,10 +15,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install guard-notifier-stumpwm
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
