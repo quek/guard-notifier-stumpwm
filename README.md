@@ -14,7 +14,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install guard-notifier-stumpwm
+$ gem install guard-notifier-stumpwm
+
+Add this line to your application's Guardfile:
+
+    require 'guard/notifier/stumpwm'
 
 ## Contributing
 
