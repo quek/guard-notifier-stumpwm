@@ -3,7 +3,7 @@ require 'guard/notifier'
 module Guard
   module Notifier
     class Stumpwm < Base
-      VERSION = '0.0.1'
+      VERSION = '0.0.2'
 
       def self.available?(opts={})
         !!`stumpish version`
